@@ -1,7 +1,3 @@
 # conflicts
 
-heyyy this changed
-more changes
-
-test
-wtf
+my teammate made a change
